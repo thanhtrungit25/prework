@@ -1,0 +1,5 @@
+proxyServer listening at 127.0.0.1:8000
+proxyServer listening at 127.0.0.1:8001
+proxy server
+{"host":"127.0.0.1:8001","user-agent":"curl/7.47.1","accept":"*/*","foo":"bar","x-destination-url":"127.0.0.1:8000","content-length":"11","content-type":"application/x-www-form-urlencoded"}
+Request received at: /
